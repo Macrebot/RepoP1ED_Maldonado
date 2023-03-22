@@ -7,7 +7,7 @@ public class Principal {
 		
 		System.out.println("Programa que nos permitirá hacer un control " +
 		"de versiones con Git\n" +
-		"Segunda modificación");
+		"Segunda modificación\n");
 		
 		System.out.println("Hecho por " + creador + ".");
 	}
